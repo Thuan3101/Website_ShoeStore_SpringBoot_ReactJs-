@@ -1,0 +1,265 @@
+body {
+	margin: 0;
+	top: 0;
+	left: 0;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+.container-product {
+	margin: 20px;
+}
+
+.products-home {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.body-title {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+/* Search css*/
+.group-search {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.search-home {
+	padding: 10px;
+	width: 500px;
+	border: none;
+	border-radius: 10px;
+	background-color: rgba(247, 163, 103, 0.788);
+	height: 30px;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	outline: none;
+}
+
+.btn-search {
+	font-size: 16px;
+	color: white;
+	margin-left: 20px;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	cursor: pointer;
+	outline: none;
+	background-color: rgba(247, 163, 103, 0.788);
+	transition: background-color 0.3s;
+}
+
+.btn-load {
+	padding: 10px 20px;
+	font-size: 16px;
+	color: rgb(150, 150, 150);
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	outline: none;
+	transition: background-color 0.3s;
+}
+
+.btn-load:hover {
+	color: white;
+	background-color: rgb(52, 179, 179);
+}
+
+/*img product*/
+.imgProduct {
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+	background-color: rgba(187, 185, 185, 0.726);
+}
+
+.showProduct {
+	margin-top: 20px;
+	object-fit: cover;
+	flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+}
+
+.cartProduct {
+	margin: 20px;
+	height: 400px;
+	width: 250px;
+	padding: 20px 10px 20px 10px;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.nameProduct {
+	height: 50px;
+	font-size: 20px;
+	width: 250px; /* Độ rộng của phần mô tả */
+	white-space: nowrap; /* Không cho phép văn bản xuống dòng */
+	overflow: hidden; /* Ẩn phần văn bản tràn ra */
+	text-overflow: ellipsis; /* Thêm dấu ... khi văn bản quá dài */
+	font-weight: bold;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.desProduct {
+	height: 50px;
+	font-size: 15px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.cartProduct:hover {
+	background-color: #ebebeb7e;
+}
+
+.title {
+	display: flex;
+	flex-direction: column;
+}
+
+.title-1 {
+	height: 200px;
+	bottom: 0;
+}
+
+.title-pr {
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 250px;
+}
+
+.input-amount {
+	height: 30px;
+	width: 40px;
+	text-align: center;
+}
+
+.btn-add-item {
+	margin: 10px;
+	padding: 10px 20px;
+	width: 100%;
+	background-color: #36c582bd;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.details {
+	cursor: pointer;
+	display: block;
+	color: rgb(49, 49, 49);
+	text-decoration: none;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.btn-add-item:hover {
+	background-color: #36c582;
+}
+
+.showProduct>.product-item {
+	flex: 1 1 200px; /* Mỗi sản phẩm sẽ có độ rộng tối thiểu là 200px */
+	margin: 10px;
+}
+
+
+
+/* Khi màn hình nhỏ hơn 768px, hiển thị theo cột */
+@media ( max-width : 768px) {
+	.showProduct {
+		flex-direction: column; /* Đổi thành hiển thị theo cột */
+	}
+}
+
+/* Responsive sale img */
+.sale-img {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.img-responsive-sale {
+	width: 100%;
+	height: 850px;
+	object-fit: cover;
+}
+
+/* Res group new IMG*/
+.group-new {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.group-img-new {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	width: 85%;
+	padding: 30px;
+}
+
+.banner-new {
+	height: 250px;
+	width: 500px;
+	object-fit: fill;
+}
+
+.p-new {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner-new:hover {
+	transform: scale(1.2);
+	transition: transform 0.3s;
+	cursor: pointer;
+	box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.623);
+}
+
+#load-more-button {
+    display: block;
+    margin: 20px auto; /* Centers the button horizontally */
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color:  rgb(52, 179, 179); /* Background color */
+    transition: background-color 0.3s; /* Smooth background transition */
+}
+
+#load-more-button:hover {
+	
+    background-color: rgba(247, 163, 103, 0.788); /* Background color change on hover */
+}
+
+

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Welcome</title>
+    <script>
+        async function checkAuthentication() {
+            const token = localStorage.getItem('jwt_token'); // Lấy token từ localStorage
+
+            if (!token) {
+                // Nếu không có token, chuyển hướng đến trang đăng nhập
+                window.location.href = '/login';
+                return;
+            }
+
+            try {
+                const response = await fetch('/index', {
+                    method: 'GET',
+                    headers: {
+                        'Authorization': 'Bearer ' + token, // Gửi token trong header
+                    },
+                });
+
+                if (response.ok) {
+                    const data = await response.text();
+                    document.getElementById("content").innerHTML = data; // Hiển thị dữ liệu nhận được
+                } else {
+                    // Nếu có lỗi, chuyển hướng đến trang đăng nhập
+                    window.location.href = '/login';
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                window.location.href = '/login'; // Chuyển hướng nếu có lỗi
+            }
+        }
+
+        window.onload = checkAuthentication; // Gọi hàm khi trang được tải
+    </script>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <div id="content">
+        <p>Loading...</p> <!-- Hiển thị thông báo tải dữ liệu -->
+    </div>
+    <p><a href="/logout">Logout</a></p>
+</body>
+</html>

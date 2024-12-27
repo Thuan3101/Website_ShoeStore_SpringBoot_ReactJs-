@@ -1,0 +1,4882 @@
+[
+  {
+    "product": {
+      "shoe_id": "shoe_051",
+      "name": "Giày VANS KNU SKOOL SUEDE",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2400000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/51.png?v=1727024587316"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/51t.png?v=1732528742857"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt máy bằng nước lạnh, phơi khô"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/51.png?v=1727024587316",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/51.png?v=1727024587316",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/51.png?v=1727024587316"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 600
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_052",
+      "name": "VANS CANVAS OLD SKOOL CLASSIC",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1750000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/52.png?v=1727024591672"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/51.png?v=1727024587316"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 300
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/52.png?v=1727024591672",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/52.png?v=1727024591672",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/52.png?v=1727024591672"
+      ],
+      "ratings": {
+        "average": 5.0,
+        "reviews": 700
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_053",
+      "name": "Giày VANS KNU SKOOL MEGA CHECK POTTING SOIL",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2400000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/53.png?v=1727024595363"
+          },
+          {
+            "color": "Brown",
+            "hex": "#bf6240",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/54.png?v=1727024597357"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/53.png?v=1727024595363",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/53.png?v=1727024595363",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/53.png?v=1727024595363"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "reviews": 250
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_054",
+      "name": "Giày VANS KNU SKOOL MEGA CHECK",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2400000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Grey",
+            "hex": "#808080",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/54.png?v=1727024597357"
+          },
+          {
+            "color": "Brown",
+            "hex": "#86442d",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/53.png?v=1727024595363"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/54.png?v=1727024597357",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/54.png?v=1727024597357",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/54.png?v=1727024597357"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_055",
+      "name": "Giày VANS OLD SKOOL TRI-TONE",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1700000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Green",
+            "hex": "#008000",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/55.png?v=1727024599340"
+          },
+          {
+            "color": "Blue",
+            "hex": "#2d3a86",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/55b.png?v=1732530662037"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/55.png?v=1727024599340",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/55.png?v=1727024599340",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/55.png?v=1727024599340"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 200
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_056",
+      "name": "Giày VANS OLD SKOOL THREDED DENIM",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2400000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Blue",
+            "hex": "#0000FF",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/56.png?v=1727024602081"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/56black.png?v=1732530728959"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/56.png?v=1727024602081",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/56.png?v=1727024602081",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/56.png?v=1727024602081"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_057",
+      "name": "Giày VANS KNU SKOOL TRI BLOCK",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2400000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Purple",
+            "hex": "#800080",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/57.png?v=1727024603448"
+          },
+          {
+            "color": "Green",
+            "hex": "#008000",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/55.png?v=1727024599340"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 300
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/57.png?v=1727024603448",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/57.png?v=1727024603448",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/57.png?v=1727024603448"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 700
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_058",
+      "name": "Giày VANS KNU SKOOL SUEDE",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2400000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/58.png?v=1727024605680"
+          },
+          {
+            "color": "Grey",
+            "hex": "#808080",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/58xam.png?v=1732530989411"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/58.png?v=1727024605680",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/58.png?v=1727024605680",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/58.png?v=1727024605680"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_059",
+      "name": "Giày VANS OLD SKOOL MULTI BLOCK",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2200000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Pink",
+            "hex": "#ffc0cb",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/59.png?v=1727024607885"
+          },
+          {
+            "color": "Blue",
+            "hex": "#0000FF",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/59blue.png?v=1732531075680"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/59.png?v=1727024607885",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/59.png?v=1727024607885",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/59.png?v=1727024607885"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_060",
+      "name": "VANS OLD SKOOL STYLE 136 DECON VR3 SF",
+      "brand": "VANS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2000000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/60.png?v=1727024610634"
+          },
+          {
+            "color": "Green",
+            "hex": "#00d084",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/60green.png?v=1732531185420"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải bố",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/60.png?v=1727024610634",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/60.png?v=1727024610634",
+        "https://cdn.glitch.global/898ca1be-8d38-4e26-a381-4ae672d13b9d/60.png?v=1727024610634"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 450
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_061",
+      "name": "Giày sneakers unisex cổ thấp Palermo LTH",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2499000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/61.png?v=1727025070685"
+          },
+          {
+            "color": "Blue",
+            "hex": "#0000FF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/66.png?v=1727025082214"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/61.png?v=1727025070685",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/61.png?v=1727025070685",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/61.png?v=1727025070685"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_062",
+      "name": "Giày sneakers unisex cổ thấp Fenty Creeper Phatty Earth Tone",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3339000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Green",
+            "hex": "#008000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/62.png?v=1727025073042"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/62w.png?v=1732531439300"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/62.png?v=1727025073042",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/62.png?v=1727025073042",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/62.png?v=1727025073042"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_063",
+      "name": "Giày sneakers unisex cổ thấp Court Classic Vulc Retro C",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1499000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/63.png?v=1727025076321"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/63black.png?v=1732531538925"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 500
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/63.png?v=1727025076321",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/63.png?v=1727025076321",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/63.png?v=1727025076321"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 800
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_064",
+      "name": "Giày tập luyện nữ Disperse XT 3 Summer Daze",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1799000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Pink",
+            "hex": "#ffc0cb",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/64.png?v=1727025078569"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/64white.png?v=1732531650560"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 350
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/64.png?v=1727025078569",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/64.png?v=1727025078569",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/64.png?v=1727025078569"
+      ],
+      "ratings": {
+        "average": 5.0,
+        "reviews": 1000
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_065",
+      "name": "Giày sneakers nữ cổ thấp Cilia Wedge",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1499000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/65.png?v=1727025081524"
+          },
+          {
+            "color": "Brown",
+            "hex": "#d29179",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/65brown.png?v=1732531761523"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 250
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/65.png?v=1727025081524",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/65.png?v=1727025081524",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/65.png?v=1727025081524"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_066",
+      "name": "Giày sneakers unisex cổ thấp Palermo LTH",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2499000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Blue",
+            "hex": "#0000FF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/66.png?v=1727025082214"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/61.png?v=1727025070685"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/66.png?v=1727025082214",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/66.png?v=1727025082214",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/66.png?v=1727025082214"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_067",
+      "name": "Giày sneakers unisex cổ thấp Caven 2.0",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1899000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/67.png?v=1727025084235"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/67black.png?v=1732532339541"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 250
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/67.png?v=1727025084235",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/67.png?v=1727025084235",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/67.png?v=1727025084235"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_068",
+      "name": "Giày sneakers unisex cổ thấp RS X 3D",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2000000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/68.png?v=1727025085892"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/68white.png?v=1732532408791"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/68.png?v=1727025085892",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/68.png?v=1727025085892",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/68.png?v=1727025085892"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_069",
+      "name": "Giày sneakers unisex cổ thấp CA Pro Ripple Earth",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2999000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/69.png?v=1727025088486"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 750
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/69.png?v=1727025088486",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/69.png?v=1727025088486",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/69.png?v=1727025088486"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 800
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_070",
+      "name": "Giày sneakers unisex cổ thấp Caven 2.0 Lux",
+      "brand": "PUMA",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1999000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/70.png?v=1727025090483"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/70white.png?v=1732532514402"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 300
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/70.png?v=1727025090483",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/70.png?v=1727025090483",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/70.png?v=1727025090483"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_071",
+      "name": "Giày sneakers nữ cổ thấp",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2299000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/71.png?v=1727025566238"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 250
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/71.png?v=1727025566238",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/71.png?v=1727025566238",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/71.png?v=1727025566238"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_072",
+      "name": "Giày sneakers nữ cổ thấp hiện đại",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3049000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/72.png?v=1727025566648"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/76.png?v=1727025573224"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 450
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/72.png?v=1727025566648",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/72.png?v=1727025566648",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/72.png?v=1727025566648"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_073",
+      "name": "Giày sneakers nữ cổ thấp trang",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2889000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/73.png?v=1727025568874"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 500
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/73.png?v=1727025568874",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/73.png?v=1727025568874",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/73.png?v=1727025568874"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 700
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_074",
+      "name": "Giày bóng rổ unisex thời trang",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3049000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Red",
+            "hex": "#FF0000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/74.png?v=1727025570110"
+          },
+          {
+            "color": "Blue",
+            "hex": "#03A9F4",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/74blue.png?v=1732533521000"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/74.png?v=1727025570110",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/74.png?v=1727025570110",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/74.png?v=1727025570110"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_075",
+      "name": "Giày bóng rổ unisex thời trang",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2000000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Blue",
+            "hex": "#0000FF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/75.png?v=1727025571464"
+          },
+          {
+            "color": "Red",
+            "hex": "#FF0000",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/75red.png?v=1732533593481"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/75.png?v=1727025571464",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/75.png?v=1727025571464",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/75.png?v=1727025571464"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_076",
+      "name": "Giày chạy bộ nữ phối logo",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3049000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/76.png?v=1727025573224"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/72.png?v=1727025566648"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 350
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/76.png?v=1727025573224",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/76.png?v=1727025573224",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/76.png?v=1727025573224"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_077",
+      "name": "Giày chạy bộ nữ phối logo",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3049000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/77.png?v=1727025574500"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/79.png?v=1727025577628"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 450
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/77.png?v=1727025574500",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/77.png?v=1727025574500",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/77.png?v=1727025574500"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 800
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_078",
+      "name": "Giày chạy bộ nữ phối logo nổi bật",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2749000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/78.png?v=1727025575947"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/78black.png?v=1732533738647"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/78.png?v=1727025575947",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/78.png?v=1727025575947",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/78.png?v=1727025575947"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_079",
+      "name": "Giày chạy bộ nữ phối logo nổi bật",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2749000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/79.png?v=1727025577628"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/77.png?v=1727025574500"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/79.png?v=1727025577628",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/79.png?v=1727025577628",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/79.png?v=1727025577628"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_080",
+      "name": "Giày chạy bộ nữ thời trang",
+      "brand": "NIKE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1899000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Women's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/80.png?v=1727025579379"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/90101ced-3edf-4e30-802e-0f4db6c62b34/80white.png?v=1732533866940"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải lưới",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 350
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/80.png?v=1727025579379",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/80.png?v=1727025579379",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/80.png?v=1727025579379"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_081",
+      "name": "Giày adidas Samba OG",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2690000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/81.png?v=1727026029646"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/f02f1016-8d0b-4452-b293-d42039cfa331/81black.png?v=1732537541562"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/81.png?v=1727026029646",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/81.png?v=1727026029646",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/81.png?v=1727026029646"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_082",
+      "name": "Giày adidas Samba OG J",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2190000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/82.png?v=1727026030251"
+          },
+          {
+            "color": "Brown",
+            "hex": "#bf6240",
+            "image": "https://cdn.glitch.global/f02f1016-8d0b-4452-b293-d42039cfa331/82brown.png?v=1732537710478"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 250
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/82.png?v=1727026030251",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/82.png?v=1727026030251",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/82.png?v=1727026030251"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_083",
+      "name": "Giày adidas Samba OG ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2690000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Maroon",
+            "hex": "#800000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/83.png?v=1727026031959"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/84.png?v=1727026033460"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 400
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/83.png?v=1727026031959",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/83.png?v=1727026031959",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/83.png?v=1727026031959"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 600
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_084",
+      "name": "Giày adidas Samba OG ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3090000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/84.png?v=1727026033460"
+          },
+          {
+            "color": "Maroon",
+            "hex": "#800000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/83.png?v=1727026031959"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/84.png?v=1727026033460",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/84.png?v=1727026033460",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/84.png?v=1727026033460"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_085",
+      "name": "Giày adidas Samba OG ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3990000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Cardboard",
+            "hex": "#ce7e00",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/85.png?v=1727026035020"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/85.png?v=1727026035020",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/85.png?v=1727026035020",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/85.png?v=1727026035020"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 200
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_086",
+      "name": "Giày adidas originals x Wales Bonner Samba Pony ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 9890000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/86.png?v=1727026037099"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/f02f1016-8d0b-4452-b293-d42039cfa331/86bb.png?v=1732537888531"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 150
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/86.png?v=1727026037099",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/86.png?v=1727026037099",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/86.png?v=1727026037099"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_087",
+      "name": "Giày adidas Samba Classic ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 3290000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/87.png?v=1727026038652"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/f02f1016-8d0b-4452-b293-d42039cfa331/87black.png?v=1732537960268"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 400
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/87.png?v=1727026038652",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/87.png?v=1727026038652",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/87.png?v=1727026038652"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_088",
+      "name": "Giày adidas Samba OG C ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2190000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/88.png?v=1727026040055"
+          },
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/82.png?v=1727026030251"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/88.png?v=1727026040055",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/88.png?v=1727026040055",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/88.png?v=1727026040055"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_089",
+      "name": "Giày adidas Originals x Pharrell Williams Humanrace Samba ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 5200000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/89.png?v=1727026041422"
+          },
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/f02f1016-8d0b-4452-b293-d42039cfa331/86bb.png?v=1732537888531"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 350
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/89.png?v=1727026041422",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/89.png?v=1727026041422",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/89.png?v=1727026041422"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "reviews": 600
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_090",
+      "name": "Giày adidas Samba ",
+      "brand": "ADIDAS",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 5690000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Olive Strata Gum",
+            "hex": "#808000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/90.png?v=1727026043068"
+          },
+          {
+            "color": "Green",
+            "hex": "#284D19",
+            "image": "https://cdn.glitch.global/f02f1016-8d0b-4452-b293-d42039cfa331/90green.png?v=1732538154349"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/90.png?v=1727026043068",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/90.png?v=1727026043068",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/90.png?v=1727026043068"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_091",
+      "name": "Giày sneakers unisex cổ thấp Chuck Taylor All Star 1970s",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1990000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/91.png?v=1727026442633"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 600
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/91.png?v=1727026442633",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/91.png?v=1727026442633",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/91.png?v=1727026442633"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 600
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_092",
+      "name": "Giày sneakers unisex cổ thấp Chuck Taylor All Star 1970s",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1990000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/92.png?v=1727026442633"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải Primeknit",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 250
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/92.png?v=1727026442633",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/92.png?v=1727026442633",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/92.png?v=1727026442633"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "reviews": 500
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_093",
+      "name": "Giày mules unisex Chuck Taylor All Star 1970s",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2000000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/93.png?v=1727026449094"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/93.png?v=1727026449094",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/93.png?v=1727026449094",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/93.png?v=1727026449094"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_094",
+      "name": "Giày sneakers nữ cổ cao Chuck Taylor All Star Move",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2000000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/94.png?v=1727026450609"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 400
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/94.png?v=1727026450609",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/94.png?v=1727026450609",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/94.png?v=1727026450609"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "reviews": 450
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_095",
+      "name": "Giày sneakers unisex cổ cao Run Star Legacy",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2500000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/95.png?v=1727026452245"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 350
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/95.png?v=1727026452245",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/95.png?v=1727026452245",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/95.png?v=1727026452245"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "reviews": 300
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_096",
+      "name": "Giày sneakers unisex cổ cao Chuck Taylor All Star Classic",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1550000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/96.png?v=1727026453760"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 500
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/96.png?v=1727026453760",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/96.png?v=1727026453760",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/96.png?v=1727026453760"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 800
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_097",
+      "name": "Giày sneakers unisex cổ cao Run Star Hike",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2550000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/97.png?v=1727026454909"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/97.png?v=1727026454909",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/97.png?v=1727026454909",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/97.png?v=1727026454909"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "reviews": 200
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_098",
+      "name": "Giày sneakers unisex cổ thấp Chuck Taylor All Star Original",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1450000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/98.png?v=1727026456179"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 100
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/98.png?v=1727026456179",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/98.png?v=1727026456179",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/98.png?v=1727026456179"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 400
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_099",
+      "name": "Giày sneakers unisex cổ thấp Chuck Taylor All Star Classic",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 1450000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "White",
+            "hex": "#FFFFFF",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/99.png?v=1727026457535"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 300
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/99.png?v=1727026457535",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/99.png?v=1727026457535",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/99.png?v=1727026457535"
+      ],
+      "ratings": {
+        "average": 4.9,
+        "reviews": 700
+      }
+    }
+  },
+  {
+    "product": {
+      "shoe_id": "shoe_100",
+      "name": "Giày sneakers unisex cổ cao Chuck Taylor All Star 1970s",
+      "brand": "CONVERSE",
+      "description": "Thương hiệu giày cao cấp chất lượng",
+      "price": 2000000.0,
+      "currency": "VND",
+      "categories": [
+        "Running Shoes",
+        "Athletic Footwear",
+        "Men's Footwear"
+      ],
+      "options": {
+        "colors": [
+          {
+            "color": "Black",
+            "hex": "#000000",
+            "image": "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/100.png?v=1727026458932"
+          }
+        ],
+        "sizes": [
+          {
+            "size": "US 5",
+            "euSize": "EU 36",
+            "ukSize": "UK 3.5"
+          },
+          {
+            "size": "US 6",
+            "euSize": "EU 37",
+            "ukSize": "UK 4.5"
+          },
+          {
+            "size": "US 7",
+            "euSize": "EU 38",
+            "ukSize": "UK 5.5"
+          },
+          {
+            "size": "US 7.5",
+            "euSize": "EU 39",
+            "ukSize": "UK 6"
+          },
+          {
+            "size": "US 8",
+            "euSize": "EU 40",
+            "ukSize": "UK 6.5"
+          },
+          {
+            "size": "US 8.5",
+            "euSize": "EU 41",
+            "ukSize": "UK 7"
+          },
+          {
+            "size": "US 9",
+            "euSize": "EU 42",
+            "ukSize": "UK 8"
+          },
+          {
+            "size": "US 10",
+            "euSize": "EU 43",
+            "ukSize": "UK 9"
+          },
+          {
+            "size": "US 11",
+            "euSize": "EU 44",
+            "ukSize": "UK 10"
+          }
+        ],
+        "materials": [
+          {
+            "material": "Vải canvas",
+            "careInstructions": "Giặt bằng tay bằng nước , không sử dụng hóa chất tẩy rửa"
+          },
+          {
+            "material": "Đế cao su",
+            "careInstructions": "Lau sạch bằng khăn ẩm"
+          }
+        ]
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 200
+      },
+      "images": [
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/100.png?v=1727026458932",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/100.png?v=1727026458932",
+        "https://cdn.glitch.global/a30c0d32-48d8-4b04-93a1-a60040234ee4/100.png?v=1727026458932"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "reviews": 400
+      }
+    }
+  }
+]

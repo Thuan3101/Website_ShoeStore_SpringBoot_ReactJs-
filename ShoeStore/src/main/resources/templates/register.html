@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Register</title>
+</head>
+<body>
+    <h1>Register</h1>
+    
+    <!-- Hiển thị thông báo lỗi nếu có -->
+    <div th:if="${error}" style="color: red;">
+        <p th:text="${error}"></p>
+    </div>
+    
+    <form action="#" th:action="@{/api/v1/auth/register}" th:object="${user}" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" th:field="*{username}" required/><br/>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" th:field="*{password}" required/><br/>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" th:field="*{email}" required/><br/>
+
+        <label for="phone">Phone:</label>
+        <input type="text" id="phone" th:field="*{phone}"/><br/>
+
+        <label for="address">Address:</label>
+        <textarea id="address" th:field="*{address}"></textarea><br/>
+
+        <button type="submit">Register</button>
+    </form>
+
+    <p>Already have an account? <a th:href="@{/api/v1/auth/login}">Login here</a></p>
+</body>
+</html>

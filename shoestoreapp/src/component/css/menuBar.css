@@ -1,0 +1,280 @@
+.menu-home {
+	height: 80px;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	background-color: #e8f8f5;
+	top: 0;
+	left: 0;
+	position: fixed; /* Đảm bảo rằng menu cố định */
+	z-index: 1;
+}
+
+.logo-home {
+	height: 60px;
+	width: 60px;
+	border-radius: 5px;
+}
+
+.menu-home .logo-container {
+	display: flex;
+	align-items: center;
+}
+
+.ul-home {
+	height: 80px;
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0;
+	margin: 0;
+}
+
+.li-home {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0 10px;
+}
+
+.li-home a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px 15px;
+	color: black;
+	text-decoration: none;
+	border-radius: 5px;
+	transition: background-color 0.3s ease;
+}
+
+.li-home a:hover {
+	background-color: darkgray;
+	color: white;
+}
+
+.feather.feather-shopping-cart {
+	font-size: 24px;
+	color: #17202a;
+}
+
+button:hover {
+	background-color: #45a049;
+}
+
+/* Modal styles */
+/* Modal container */
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed; /* 'fixed' for consistent positioning */
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1000;
+}
+
+
+.modal-content {
+	background-color: #f1f1f1; /* Adjust the background color if needed */
+	padding: 20px;
+	border: 1px solid #888;
+	width: 300px;
+	border-radius: 8px;
+	
+	/* Ensure this is positioned relative for the triangle arrow */
+}
+
+/* Mũi tên tam giác hướng lên */
+.modal-content::before {
+	content: "";
+	position: absolute;
+	top: -20px; /* Đặt mũi tên ngay phía trên modal */
+	left: 12px; /* Điều chỉnh vị trí theo nhu cầu */
+	border-width: 10px;
+	border-style: solid;
+	border-color: transparent transparent rgba(0, 0, 0, 0.5) transparent;
+	/* Mũi tên màu trắng */
+}
+
+.close {
+	margin-top: -10px;
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.close:hover, .close:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.alert-danger {
+	color: red;
+	display: none;
+}
+
+label {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+input[type="text"] {
+	padding: 0.75rem;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	background-color: #f4f4f9;
+	transition: border 0.3s ease;
+}
+
+input[type="textmenu"], input[type="password"] {
+	width: 90%;
+	padding: 0.75rem;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	background-color: #f4f4f9;
+	transition: border 0.3s ease;
+}
+
+input[type="textmenu"]:focus, input[type="password"]:focus {
+	border: 1px solid #333;
+	outline: none;
+}
+
+.div_btn_login {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 10px;
+	;
+}
+
+.btn-login {
+	width: 100%;
+	padding: 0.75rem;
+	background-color: #48c9b0;
+	color: white;
+	font-size: 16px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.register-link {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.register-link p {
+	font-size: 14px;
+	margin: 0;
+	color: #555;
+}
+
+.btn-register {
+	display: inline-block;
+	margin-top: 10px;
+	padding: 8px 16px;
+	background-color: #48c9b0;
+	color: white;
+	text-decoration: none;
+	border-radius: 4px;
+	transition: background-color 0.3s ease;
+}
+
+.btn-register:hover {
+	background-color: #45a049;
+}
+
+.footer_modal_login {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* Container cho khung tìm kiếm */
+.search-container {
+    position: relative;
+    display: inline-block;
+}
+
+/* Popup kết quả tìm kiếm */
+.search-popup {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    width: 120%;
+    max-width: 400px;
+    z-index: 10;
+    padding: 10px;
+}
+
+/* Item sản phẩm trong kết quả tìm kiếm */
+.search-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.search-item:hover {
+    background-color: #f2f2f2;
+}
+
+/* Ảnh sản phẩm nhỏ */
+.search-item-img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+/* Nút xem thêm */
+.see-more-btn {
+	margin-top: 10px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #eee;
+    text-align: center;
+    cursor: pointer;
+    border-top: 1px solid #ddd;
+    border-radius: 5px 5px 5px 5px;
+}
+
+/* Thông báo không tìm thấy sản phẩm */
+.no-results {
+    padding: 10px;
+    color: #888;
+    text-align: center;
+}
+
+
+@media (max-width: 768px) {
+    .menu-home {
+        flex-direction: column;
+    }
+    .ul-home {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

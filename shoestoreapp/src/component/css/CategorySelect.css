@@ -1,0 +1,98 @@
+.category-select-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .category-selection-bar {
+     display: flex;
+     list-style-type: none;
+ }
+
+ /* Thiết lập row cho các danh mục */
+ .category-selection-row {
+     list-style-type: none;
+     width: 1170px;
+     margin-left: 40px;
+     margin-top: -15px;
+     border: 1px solid #ccc;
+ }
+
+ .category-selection-bar li {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 80px;
+     width: 200px;
+     cursor: pointer;
+     border: 1px solid #ccc;
+     
+ }
+
+ .category-selection-bar li:hover, 
+ .category-selection-bar a:hover {
+     background-color: #62eed0;
+     color: #ebecec;
+ }
+
+ /* Đổi màu khi được chọn */
+ .category-selection-bar li.active-link {
+     /* background-color: #1498e4; */
+     border-bottom: none;
+     color: white;
+ }
+
+ .category-selection-bar a {
+     text-decoration: none;
+     color: black;
+ }
+
+ /* Dùng để điều khiển hiển thị hàng */
+ .category-selection-row li {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 80px;
+     width: 200px;
+     cursor: pointer;
+     border: none;
+     transition: background-color 0.3s;
+ }
+
+ /* Ẩn tất cả các ul ban đầu */
+ ul {
+     display: none;
+ }
+
+ /* Khi active, sẽ hiển thị và sắp xếp theo hàng */
+ ul.active {
+     display: flex;
+     border-top: none;
+ }
+
+ .category-selection-row li{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     height: 100px;
+ }
+
+ .category-selection-row a{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     text-decoration: none;
+     height: 100px;
+ }
+
+ .category-img {
+     height: 35px;
+     width: 35px;
+     padding: 10px;
+     margin-bottom: 10px;
+     border-radius: 50%;
+     background-color: rgba(128, 128, 128, 0.212);
+ }

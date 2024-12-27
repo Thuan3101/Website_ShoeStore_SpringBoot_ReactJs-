@@ -1,0 +1,195 @@
+main {
+    display: block;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+/* Container Styles */
+.container-pr-detail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px auto;
+    margin-top: 150px;
+    max-width: 1200px;
+    gap: 40px; /* Add gap between columns */
+}
+
+/* Image and Details Containers */
+.container-details-2 {
+    flex: 1; /* Allow the details section to take remaining space */
+}
+
+/* Product Image */
+.imgpr-detail {
+    width: 510px;
+    height: 510px;
+    border-radius: 10px;
+    object-fit: cover;
+    background-color: rgba(189, 182, 182, 0.493);
+    margin: 0 auto;
+}
+
+/* Text Styles */
+.despr-detail {
+    font-size: 18px;
+    font-family: 'Cambria', serif;
+    max-width: 600px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+.pricepr-detail {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Cambria', serif;
+    color: green;
+    margin: 10px 0;
+}
+
+/* Buttons */
+.addbtn-detail {
+    background-color: #2ac2a9;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 100%;
+    max-width: 250px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 20px 0;
+    transition: background-color 0.3s;
+}
+
+.addbtn-detail:hover {
+    background-color: #219a85; /* Slightly darker on hover */
+}
+
+/* Quantity Form */
+.form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 30px 0;
+}
+
+.quantity-btn {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    transition: background-color 0.3s;
+	height: 50px;
+}
+
+.quantity-btn:hover {
+    background-color: #f0f0f0;
+}
+
+.input-amount {
+	height: 50px;
+	margin: 10px;
+    width: 60px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Descriptions */
+.description-title {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+.description-content {
+    font-size: 16px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    max-height: 200px;
+    transition: max-height 0.3s ease;
+}
+
+.description-content.expanded {
+    max-height: 1000px;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.section-title::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 2px;
+    background-color: red;
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+}
+
+/* Button Container */
+.button-container {
+    text-align: center;
+    max-width: 600px;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+/* Dropdowns */
+.color-dropdown, .size-dropdown {
+    height: 40px;
+    width: 100%;
+    max-width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.sizes, .colors {
+    margin: 20px 0;
+}
+
+/* Section Headers */
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}

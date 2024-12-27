@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShoeStoreApplication<ShoeStore>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "nhom3.ShoeStore.demo.ShoeStoreApplication",
+            "projectName": "ShoeStore",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
